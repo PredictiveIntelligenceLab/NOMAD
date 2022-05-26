@@ -3,7 +3,7 @@
 
 ![neurips22](https://user-images.githubusercontent.com/3844367/169362195-c4f43763-e8ab-4d5a-90ba-d681b648f9a6.png)
 
-This repository contains code and data accompanying the manuscript titled "Nonlinear Manifold Decoders for Operator Learning", authored by Jacob Seidman*, Georgios Kissas*, George Pappas, and Paris Perdikaris.
+This repository contains code and data accompanying the manuscript titled "Nonlinear Manifold Decoders for Operator Learning", authored by Jacob Seidman*, Georgios Kissas*, Paris Perdikaris, and George Pappas.
 
 ## Abstract
 
