@@ -1,7 +1,7 @@
 # NOMAD
 ## Nonlinear Manifold Decoders for Operator Learning
 
-[master_figure-2.pdf](https://github.com/PredictiveIntelligenceLab/NOMAD/files/9767796/master_figure-2.pdf)
+![master_figure-2](https://user-images.githubusercontent.com/3844367/195421218-164f4be9-f258-4bed-acba-484d67cae7a3.png)
 
 This repository contains code and data accompanying the manuscript titled "Nonlinear Manifold Decoders for Operator Learning", authored by Jacob Seidman*, Georgios Kissas*, Paris Perdikaris, and George Pappas.
 
