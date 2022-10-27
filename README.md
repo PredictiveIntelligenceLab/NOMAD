@@ -19,7 +19,7 @@ Each example folder should contain 4 subfolders,
 - a) "Train_model": containing the python file that can be used for training the model
 - b) "Error_Vectors": containing the error vectors resulting from multiple model runs used to generate the figures in the manuscript
 - c) "Data": containing the data sets used for training and testing the model (the Antiderivative does not contain a folder like that
-   because the data sets are created before training)
+   because the data sets are created on-the-fly.)
 - d) "Plot_results": containing the python scripts that can be used in order to reproduce the figures presented in the paper.
 
 a) and d) can be found in this GitHub repository and contain only python script files.
