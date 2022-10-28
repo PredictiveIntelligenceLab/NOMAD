@@ -262,7 +262,7 @@ def main(n, decoder):
     train_error_u = []
     for i in range(0,num_test):
         train_error_u.append(norm(s_train[i,:,0]- s_pred_train[i,:,0],2)/norm(s_train[i,:,0],2))
-    print("The average train u error is %e the standard deviation is %e the min error is %e and the max error is %e"%(np.mean(train_error_u),np.std(train_error_u),np.min(train_error_u),np.max(train_error_u)))
+    print("The average train u error is %e"%(np.mean(train_error_u)))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process model parameters.')
