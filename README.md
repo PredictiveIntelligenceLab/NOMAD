@@ -24,7 +24,7 @@ Each example folder should contain 4 subfolders,
 
 a) and d) can be found in this GitHub repository and contain only python script files.
 
-All data and codes to reproduce the results can be downloaded from the following direct Google Drive link
+All the data and codes required to reproduce the results can be downloaded from the following direct Google Drive link
 
 https://drive.google.com/file/d/1xEzD2swxBcBR5FdHZfc9m7o0Fhe7Z3jB/view?usp=sharing
 
