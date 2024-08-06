@@ -24,11 +24,9 @@ Each example folder should contain 4 subfolders,
 
 a) and d) can be found in this GitHub repository and contain only python script files.
 
-b) and c) can be downloaded from the following direct Google Drive link
+All data and codes to reproduce the results can be downloaded from the following direct Google Drive link
 
-https://drive.google.com/uc?export=download&id=1hshM_vtS4hU9Q6JbnY74DyQUiGKcdMNu
-
-After the zip file is downloaded from the direct link and unzip-ed, the "Error_Vectors" and "Data" folders need to be moved in its respective example folder, i.e. the "Data" folder for the Shallow Water Equations examples found in NeurIPS2022.zip need to be moved to the "Shallow Water" folder.
+https://drive.google.com/file/d/1xEzD2swxBcBR5FdHZfc9m7o0Fhe7Z3jB/view?usp=sharing
 
 ## Code usage
 
